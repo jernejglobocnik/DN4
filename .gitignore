@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!app.py
+!requirements.txt
+!podatki/
+!podatki/*.csv
+!podatki/README.txt 
